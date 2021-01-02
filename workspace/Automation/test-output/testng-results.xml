@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42852" started-at="2020-09-20T10:44:34Z" finished-at="2020-09-20T10:45:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42852" started-at="2020-09-20T10:44:34Z" finished-at="2020-09-20T10:45:17Z">
+      <class name="com.experitest.auto.AndroidDemoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.experitest.auto.AndroidDemoTest@3f49dace]" name="setUp" is-config="true" duration-ms="8743" started-at="2020-09-20T16:44:34Z" finished-at="2020-09-20T16:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="excelVaue()[pri:1, instance:com.experitest.auto.AndroidDemoTest@3f49dace]" name="excelVaue" duration-ms="23866" started-at="2020-09-20T16:44:43Z" finished-at="2020-09-20T16:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelVaue -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.experitest.auto.AndroidDemoTest@3f49dace]" name="tearDown" is-config="true" duration-ms="10170" started-at="2020-09-20T16:45:07Z" finished-at="2020-09-20T16:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.experitest.auto.AndroidDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
